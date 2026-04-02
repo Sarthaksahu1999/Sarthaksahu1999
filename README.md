@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sarthak Sahu
 
 🎓 Data Analytics Student at Physics Wallah Skills  
-📊 Aspiring Data Analyst | Excel • SQL • Python • Power BI  
+📊 Data Analyst | Excel • SQL • Python • Power BI  
 
 ---
 
